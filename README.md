@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/saikumarpradhan44/saikumarpradhan44/main/Blue%20Futuristic%20Technology%20LinkedIn%20Background%20Photo.png)](https://github.com/saikumarpradhan44)
+[![MasterHead](https://raw.githubusercontent.com/saikumarpradhan44/saikumarpradhan44/main/Blue%20Futuristic%20Technology%20LinkedIn%20Background%20Photo%20(1).png)](https://github.com/saikumarpradhan44)
 <h1 align="center">Hi 👋, I'm Sai Kumar Pradhan</h1>
 <h3 align="center">Passionate AI/ML Engineer</h3>
 
