@@ -22,7 +22,9 @@
 
 <!-- Animated GIF -->
 <p align="center">
-  <img width="550" src="https://raw.githubusercontent.com/saikumarpradhan44/saikumarpradhan44/main/Me_at_the_desk.gif">
+  <video width="550" autoplay muted loop playsinline>
+    <source src="https://raw.githubusercontent.com/saikumarpradhan44/saikumarpradhan44/main/Me_with_my_cat_webm.webm" type="video/webm">
+  </video>
 </p>
 
 ---
