@@ -117,11 +117,16 @@
 ## 🧪 Research & Interests
 
 ```text
-• Medical Image Analysis (MRI)
-• Parkinson’s Disease Detection using AI
-• Transfer Learning & Deep Learning Models
-• Feature Selection using GA & PSO
-• AI-driven Healthcare Solutions
+• Medical Image Analysis (MRI-focused)
+• Advanced Image Processing
+• Classification & Regression Models
+• AI-based Parkinson’s Detection
+• Transfer Learning & Deep Learning
+• Metaheuristic Optimization Algorithms
+• AI in Healthcare Applications
+• AI for Weather Forecasting
+• Research Paper & Technical Writing
+• Model Architecture Design & Explanation
 ```
 
 ---
